@@ -1,0 +1,11 @@
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\CardPrint.Form1.resources
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\CardPrint.Properties.Resources.resources
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\CardPrint.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Release\packageA.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Release\packageB.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Release\packageC.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Release\CardPrint.exe
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Release\CardPrint.pdb
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\CardPrint.exe
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Release\CardPrint.pdb

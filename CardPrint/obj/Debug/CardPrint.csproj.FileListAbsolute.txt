@@ -1,0 +1,11 @@
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Debug\packageA.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Debug\packageB.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Debug\packageC.JPG
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Debug\CardPrint.exe
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\bin\Debug\CardPrint.pdb
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\CardPrint.Form1.resources
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\CardPrint.Properties.Resources.resources
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\CardPrint.csproj.GenerateResource.Cache
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\CardPrint.exe
+C:\Documents and Settings\name\My Documents\Visual Studio 2008\Projects\CardPrint\CardPrint\obj\Debug\CardPrint.pdb
